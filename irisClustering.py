@@ -1,3 +1,5 @@
+#This program applies kmeans clustering to the iris dataset and produces 6 graphs of all axis combinations
+
 from sklearn.cluster import KMeans
 
 import numpy as np
